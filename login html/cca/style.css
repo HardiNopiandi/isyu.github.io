@@ -1,0 +1,20 @@
+*{
+	padding: 0;
+	margin: 0;
+	font-family: sans-serif;
+}
+.body{
+	background-repeat: no-repeat;
+    background-image: url(../img/ssa\ \(1\).jpeg)
+}
+header{
+}
+header h1{
+    loat: left;
+    padding: 15px 0;
+    color: #9d00ff;
+    border: 1 solid;
+}
+.a{
+    padding-left: 1px;
+}
